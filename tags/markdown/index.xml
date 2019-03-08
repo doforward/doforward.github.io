@@ -18,7 +18,7 @@
       <pubDate>Mon, 17 Jul 2017 00:00:00 +0000</pubDate>
       
       <guid>https://doforward.github.io/post/markdown%E8%AF%AD%E6%B3%95/</guid>
-      <description>&lt;p&gt;这篇文章集中说明本人博客主题所支持的 Markdown 语法和 Hugo Shortcodes 插件，你也可以在这里预览到他们的样子。如果你不喜欢某些部分的样式，可以去修改 &lt;code&gt;content.scss&lt;/code&gt; 和 &lt;code&gt;shortcodes.scss&lt;/code&gt; 这两个文件。预告一下，我所用的这个名为 &lt;code&gt;Nuo&lt;/code&gt; 的 &lt;code&gt;Hugo&lt;/code&gt; 也将于近期发布，敬请期待。&lt;/p&gt;</description>
+      <description>&lt;h2 id=&#34;markdown语法&#34;&gt;MarkDown语法&lt;/h2&gt;</description>
     </item>
     
   </channel>

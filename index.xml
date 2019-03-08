@@ -13,7 +13,7 @@
     
     
     <item>
-      <title>作品</title>
+      <title>链接</title>
       <link>https://doforward.github.io/links/</link>
       <pubDate>Mon, 17 Jul 2017 00:00:00 +0000</pubDate>
       
@@ -23,11 +23,19 @@
     
     <item>
       <title>关于</title>
-      <link>https://doforward.github.io/resume/</link>
+      <link>https://doforward.github.io/about/</link>
       <pubDate>Mon, 17 Jul 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://doforward.github.io/resume/</guid>
-      <description>This is my resume.</description>
+      <guid>https://doforward.github.io/about/</guid>
+      <description>如果一件事发生了而你没有解决, 那么它必然会发生第二次,第三次&amp;hellip;直到你解决为止 联系方式  Email：doforward@163.com QQ：603974937  个人信息  汪鹏/男/1992 本科/西安工程大学 工作年限：4年 技术博客：http://leetcode.top GitHub：http://github.com/doforward 期望职位：Android开发(Flutter也可考虑, rom定制了解一些) 期望薪资：税前月薪9k~12k 期望城市：西安  工作经历 北京倍胜智能科技有限公司 （ 2017年10月 ~ 至今 ） 公交卡充值机 一款公交卡充值补登设备, 主要是在定制的rom上通过串口通信和卡片交互.负责项目的app编写,维护以及源代码修改编译工作
+创·企业 门禁,打卡,考勤,会议预定APP,负责项目APP编写,发布以及维护工作
+琴岛通 公交卡充值APP,负责项目的维护,以及新需求开发工作
+西安上於软件技术有限公司 （ 2017年6月 ~ 2017年10月 ） 医疗数据可视化 PAD,TV大屏数据展示APP,临床,门诊,护士站等信息展示, 负责app开发工作
+瑜伽小程序 协助后台开发,SpringMVC
+社区APP 展示社区新闻,当地咨询 发表动态 公告等,负责APP编写以及协助后台写接口
+西安海勤科技有限公司 （ 2015年9月 ~ 2017年6月 ） AndroidTV开发 Android系统定制,根据客户需求定制不同launcher的电视应用, 负责APP开发以及维护, 处理产品使用过程中的想过bug, 以及蓝发遥控器新功能开发
+西工大科信科技有限公司 （ 2015年4月 ~ 2015年9月 ） 数据库开发 SQLServer数据库开发
+爱车讲堂 汽车信息展示维护APP,负责APP维护和新功能开发工作</description>
     </item>
     
     <item>
@@ -36,7 +44,7 @@
       <pubDate>Mon, 17 Jul 2017 00:00:00 +0000</pubDate>
       
       <guid>https://doforward.github.io/post/markdown%E8%AF%AD%E6%B3%95/</guid>
-      <description>&lt;p&gt;这篇文章集中说明本人博客主题所支持的 Markdown 语法和 Hugo Shortcodes 插件，你也可以在这里预览到他们的样子。如果你不喜欢某些部分的样式，可以去修改 &lt;code&gt;content.scss&lt;/code&gt; 和 &lt;code&gt;shortcodes.scss&lt;/code&gt; 这两个文件。预告一下，我所用的这个名为 &lt;code&gt;Nuo&lt;/code&gt; 的 &lt;code&gt;Hugo&lt;/code&gt; 也将于近期发布，敬请期待。&lt;/p&gt;</description>
+      <description>&lt;h2 id=&#34;markdown语法&#34;&gt;MarkDown语法&lt;/h2&gt;</description>
     </item>
     
   </channel>
