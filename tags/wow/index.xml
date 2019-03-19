@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on leetcode.top</title>
-    <link>https://doforward.github.io/post/</link>
-    <description>Recent content in Posts on leetcode.top</description>
+    <title>Wow on leetcode.top</title>
+    <link>https://doforward.github.io/tags/wow/</link>
+    <description>Recent content in Wow on leetcode.top</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>doforward</copyright>
     <lastBuildDate>Mon, 17 Jul 2017 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://doforward.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://doforward.github.io/tags/wow/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>

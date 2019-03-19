@@ -13,18 +13,12 @@
   </url>
   
   <url>
-    <loc>https://doforward.github.io/post/markdown%E8%AF%AD%E6%B3%95/</loc>
+    <loc>https://doforward.github.io/post/wow/</loc>
     <lastmod>2017-07-17T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://doforward.github.io/categories/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://doforward.github.io/tags/markdown/</loc>
-    <lastmod>2017-07-17T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -36,6 +30,11 @@
   
   <url>
     <loc>https://doforward.github.io/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://doforward.github.io/tags/wow/</loc>
     <lastmod>2017-07-17T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
